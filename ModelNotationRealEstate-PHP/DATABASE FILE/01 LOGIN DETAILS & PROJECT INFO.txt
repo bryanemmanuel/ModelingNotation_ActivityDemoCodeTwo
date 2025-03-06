@@ -1,6 +1,6 @@
 **Recommended PHP Version 7.4 up **
 
-** Database Name: realestatephp **
+ Database Name: realestatephp
 
 index
 http://localhost/ModelNotationRealEstate-PHP/
