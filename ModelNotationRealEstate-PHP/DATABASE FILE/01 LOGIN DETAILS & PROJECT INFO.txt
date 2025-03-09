@@ -1,4 +1,4 @@
-**Recommended PHP Version 7.4 up 
+Recommended PHP Version 7.4 up 
 
  Database Name: realestatephp
 
